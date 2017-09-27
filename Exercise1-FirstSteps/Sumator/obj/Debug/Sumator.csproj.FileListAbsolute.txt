@@ -1,0 +1,9 @@
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\bin\Debug\Sumator.exe.config
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\bin\Debug\Sumator.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\bin\Debug\Sumator.pdb
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\obj\Debug\Sumator.FormCalculate.resources
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\obj\Debug\Sumator.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\Sumator\obj\Debug\Sumator.pdb

@@ -1,0 +1,5 @@
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb
