@@ -1,0 +1,6 @@
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\HelloSoftUni\obj\Debug\HelloSoftUni.csprojResolveAssemblyReference.cache
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

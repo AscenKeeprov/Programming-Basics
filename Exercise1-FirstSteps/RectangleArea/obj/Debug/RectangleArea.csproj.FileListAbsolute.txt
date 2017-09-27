@@ -1,0 +1,5 @@
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\RectangleArea\bin\Debug\RectangleArea.exe.config
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\RectangleArea\bin\Debug\RectangleArea.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\RectangleArea\bin\Debug\RectangleArea.pdb
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\RectangleArea\obj\Debug\RectangleArea.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\RectangleArea\obj\Debug\RectangleArea.pdb

@@ -1,0 +1,5 @@
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\SquareOfStars.txt\bin\Debug\SquareOfStars.txt.exe.config
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\SquareOfStars.txt\bin\Debug\SquareOfStars.txt.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\SquareOfStars.txt\bin\Debug\SquareOfStars.txt.pdb
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\SquareOfStars.txt\obj\Debug\SquareOfStars.txt.exe
+c:\users\avanglion\documents\visual studio 2017\Projects\Exercise1-FirstSteps\SquareOfStars.txt\obj\Debug\SquareOfStars.txt.pdb
